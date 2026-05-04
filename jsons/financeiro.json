@@ -1,0 +1,226 @@
+[
+  {
+    "toplevel_name": "KFSA"
+  },
+  {
+    "name": "Site KFSA",
+    "url": "https://kfsa.adv.br"
+  },
+  {
+    "name": "Consulta",
+    "children": [
+      {
+        "name": "eproc 1G TJRS",
+        "url": "https://eproc1g.tjrs.jus.br/"
+      },
+      {
+        "name": "eproc 2G TJRS",
+        "url": "https://eproc2g.tjrs.jus.br/"
+      },
+      {
+        "name": "eproc 1G TJSC",
+        "url": "https://eproc1g.tjsc.jus.br/"
+      },
+      {
+        "name": "eproc 2G TJSC",
+        "url": "https://eproc2g.tjsc.jus.br/"
+      },
+      {
+        "name": "STJ",
+        "url": "https://cpe.web.stj.jus.br/"
+      },
+      {
+        "name": "eproc 1G TJSP",
+        "url": "https://eproc1g.tjsp.jus.br/eproc"
+      },
+      {
+        "name": "eproc 2G TJSP",
+        "url": "https://eproc2g.tjsp.jus.br/eproc"
+      },
+      {
+        "name": "eSAJ TJSP",
+        "url": "https://esaj.tjsp.jus.br/sajcas/login"
+      },
+      {
+        "name": "Projudi TJPR",
+        "url": "https://projudi.tjpr.jus.br/"
+      },
+      {
+        "name": "eproc 1G TJMG",
+        "url": "https://eproc1g.tjmg.jus.br/eproc/"
+      },
+      {
+        "name": "eproc 2G TJMG",
+        "url": "https://eproc2g.tjmg.jus.br/eproc/"
+      },
+      {
+        "name": "PJe 1G TJMG",
+        "url": "https://pje.tjmg.jus.br/"
+      },
+      {
+        "name": "PJe 2G TJMG",
+        "url": "https://pjerecursal.tjmg.jus.br/pje/login.seam"
+      },
+      {
+        "name": "eproc 1G TJRJ",
+        "url": "https://eproc1g.tjrj.jus.br/eproc/"
+      },
+      {
+        "name": "eproc 2G TJRJ",
+        "url": "https://eproc2g.tjrj.jus.br/eproc/"
+      },
+      {
+        "name": "PJe 1G TJPB",
+        "url": "https://pje.tjpb.jus.br/pje"
+      },
+      {
+        "name": "PJe 2G TJPB",
+        "url": "https://pje.tjpb.jus.br/pje2g"
+      },
+      {
+        "name": "JF-RS eproc",
+        "url": "https://eproc.jfrs.jus.br/eprocV2/"
+      },
+      {
+        "name": "JF-SC eproc",
+        "url": "https://eproc.jfsc.jus.br/eprocV2/"
+      },
+      {
+        "name": "JF-PR eproc",
+        "url": "https://eproc.jfpr.jus.br/eprocV2/"
+      },
+      {
+        "name": "TRF4 eproc 2G",
+        "url": "https://eproc.trf4.jus.br/eproc2trf4/"
+      },
+      {
+        "name": "PJe TRT4 1G",
+        "url": "https://pje.trt4.jus.br/primeirograu/login.seam"
+      },
+      {
+        "name": "PJe TRT4 2G",
+        "url": "https://pje.trt4.jus.br/segundograu/login.seam"
+      },
+      {
+        "name": "PJe TST",
+        "url": "https://pje.tst.jus.br/tst/login.seam"
+      }
+    ]
+  },
+  {
+    "name": "Sistemas",
+    "children": [
+      {
+        "name": "Kommo CRM",
+        "url": "https://kfsa.kommo.com/"
+      },
+      {
+        "name": "Contaazul",
+        "url": "https://contaazul.com"
+      },
+      {
+        "name": "Integra",
+        "url": "https://integra.kfsa.adv.br/"
+      },
+      {
+        "name": "Certisign Assinaturas",
+        "url": "https://assinaturas.certisign.com.br/Home/LoginMail"
+      },
+      {
+        "name": "Zapsign",
+        "url": "https://app.zapsign.com.br"
+      },
+      {
+        "name": "Segurocred",
+        "url": "https://sistema.segurocred.com.br/"
+      },
+      {
+        "name": "Assertiva",
+        "url": "https://www.assertivasolucoes.com.br/"
+      },
+      {
+        "name": "Flash App (RH)",
+        "url": "https://hros.flashapp.com.br/"
+      }
+    ]
+  },
+  {
+    "name": "Planilhas",
+    "children": [
+      {
+        "name": "Controle de movimentacoes - Banrisul",
+        "url": "https://docs.google.com/spreadsheets/d/1aG4bqsfmQyk7S7W3npVcFG1YqMhMv1L8fM0vqyVq6ms/edit"
+      },
+      {
+        "name": "Controle de Iniciais",
+        "url": "https://docs.google.com/spreadsheets/d/1uwLM_MiyWQVM7t36We-xvfEFU8sjPG8Dy1wqSLcp3Cc/edit"
+      },
+      {
+        "name": "Custas e Cumprimentos",
+        "url": "https://docs.google.com/spreadsheets/d/1XyUC5GG1OeyxkJbBt8RXEawa4ekWQkW1eILkNeUKS_s/edit"
+      },
+      {
+        "name": "Acordos",
+        "url": "https://docs.google.com/spreadsheets/d/1AaKOs-bBGcxNBrbWCFs9rSCT4hQGsOnr5vg-Sx-nKjk/edit"
+      },
+      {
+        "name": "Solicitacoes de Contrato",
+        "url": "https://docs.google.com/spreadsheets/d/1Fn7TSMOR2P4yju_JVY5NLIFPz-TptbNXKCNBHMW8aOk/edit"
+      },
+      {
+        "name": "Cadastro de clientes e reus",
+        "url": "https://docs.google.com/spreadsheets/d/1KPrF-kV-gz-9kJiD77-TwQcDLPLnuX8Lac3ryywFja0/edit"
+      },
+      {
+        "name": "Notas - KFSA",
+        "url": "https://docs.google.com/spreadsheets/d/168vyLH-j2lnWyGdsbmG9af-pdTdL8EuVPIXAXXo9tBQ/edit"
+      },
+      {
+        "name": "Notas - Apoio",
+        "url": "https://docs.google.com/spreadsheets/d/140zZOOmUu9Y0caAUT0Paau68_leJ4SMGIpPJHinR7Y8/edit"
+      },
+      {
+        "name": "Movimentacoes - Apoio",
+        "url": "https://docs.google.com/spreadsheets/d/1WOVIKKd3m0CL4Z51qny3fXdLWGCbxKIkpu9zvnMYiWc/edit"
+      },
+      {
+        "name": "Movimentacoes - KFSA",
+        "url": "https://docs.google.com/spreadsheets/d/1zUZgOCZw9Z_QQIqemfdcx7pEZ3pfjXKTAQInd1d2nb4/edit"
+      },
+      {
+        "name": "Atualizacao Processual",
+        "url": "https://docs.google.com/spreadsheets/d/1pV9O21fxqLVa3EbYIdltv-U0oiQCzKYvGqJ6DCzhprA/edit"
+      },
+      {
+        "name": "Historico e juncoes",
+        "children": [
+          {
+            "name": "Juncao - Controle de Movimentacoes",
+            "url": "https://docs.google.com/spreadsheets/d/1q43uq7bYWVr2pMo5xnBPHE2ArkvmP_zO_1MII8hQSCQ/edit"
+          },
+          {
+            "name": "Historico - Controle de Movimentacoes - Banrisul",
+            "url": "https://docs.google.com/spreadsheets/d/1waVgNzYfVE9gujTcvgHCgzV20bCJEfnLS30CnSKt--o/edit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Outros",
+    "children": [
+      {
+        "name": "Receita Federal",
+        "url": "https://www.gov.br/receitafederal/"
+      },
+      {
+        "name": "Diario Oficial",
+        "url": "https://www.in.gov.br/"
+      },
+      {
+        "name": "Consulta Juros BACEN",
+        "url": "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
+      }
+    ]
+  }
+]
