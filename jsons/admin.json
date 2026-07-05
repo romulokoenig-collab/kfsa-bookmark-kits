@@ -280,19 +280,6 @@
             ]
           }
         ]
-      },
-      {
-        "name": "Admin extras (Romulo only)",
-        "children": [
-          {
-            "name": "Controle de parceria - Elenildo",
-            "url": "https://docs.google.com/spreadsheets/d/16qqj1oBkND7Fg7INRAOUOJx9_XhF8dJpkbM2edqu/edit"
-          },
-          {
-            "name": "Relatorio CBM",
-            "url": "https://docs.google.com/spreadsheets/d/1aQoQ0N5FDrvnEuRndbWnuPVBUPZeWblgj-PGY-LK/edit"
-          }
-        ]
       }
     ]
   },
@@ -326,63 +313,6 @@
       {
         "name": "Diario Oficial",
         "url": "https://www.in.gov.br/"
-      }
-    ]
-  },
-  {
-    "name": "Admin",
-    "children": [
-      {
-        "name": "Vault Admin",
-        "url": "https://vault.kfsa.adv.br/#/admin"
-      },
-      {
-        "name": "EasyPanel VPS",
-        "url": "http://72.60.2.205:3000"
-      },
-      {
-        "name": "Supabase KFSA Database",
-        "url": "https://supabase.com/dashboard/project/qztihjsnmfeprklzezzk"
-      },
-      {
-        "name": "Supabase Kommo Monitor",
-        "url": "https://supabase.com/dashboard/project/nojxmpybfqwvtgbpyjbs"
-      },
-      {
-        "name": "Vercel",
-        "url": "https://vercel.com/dashboard"
-      },
-      {
-        "name": "Github KFSA",
-        "url": "https://github.com/romulokoenig-collab"
-      },
-      {
-        "name": "HostGator cPanel",
-        "url": "https://financeiro.hostgator.com.br"
-      },
-      {
-        "name": "Workspace Admin",
-        "url": "https://admin.google.com"
-      },
-      {
-        "name": "Anthropic Console",
-        "url": "https://console.anthropic.com"
-      },
-      {
-        "name": "OpenAI Platform",
-        "url": "https://platform.openai.com"
-      },
-      {
-        "name": "Meta Developers",
-        "url": "https://developers.facebook.com/"
-      },
-      {
-        "name": "n8n Workflows",
-        "url": "https://inicial-n8n.e8cf0x.easypanel.host/home/workflows"
-      },
-      {
-        "name": "Evolution Manager (WhatsApp)",
-        "url": "https://inicial-evolution-api.e8cf0x.easypanel.host/manager/"
       }
     ]
   }
