@@ -19,7 +19,7 @@
       },
       {
         "name": "Integra",
-        "url": "https://integra.kfsa.adv.br/"
+        "url": "https://integra.adv.br/"
       },
       {
         "name": "Certisign Assinaturas",
@@ -31,11 +31,11 @@
       },
       {
         "name": "Segurocred",
-        "url": "https://sistema.segurocred.com.br/"
+        "url": "https://sistema.segurocred.com.br/account/login"
       },
       {
         "name": "Assertiva",
-        "url": "https://www.assertivasolucoes.com.br/"
+        "url": "https://app.assertivasolucoes.com.br/login"
       },
       {
         "name": "Flash App (RH)",
@@ -117,7 +117,7 @@
         "url": "https://www.in.gov.br/"
       },
       {
-        "name": "Consulta Juros BACEN",
+        "name": "Consulta Juros BACEN (SGS)",
         "url": "https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"
       }
     ]
