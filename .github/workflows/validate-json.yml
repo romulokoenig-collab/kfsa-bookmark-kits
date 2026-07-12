@@ -1,0 +1,38 @@
+name: Validar JSON dos kits
+
+# WP-1.9 do plano hub 260711-2258 — gate de sintaxe para um repo PÚBLICO push=LIVE:
+# os jsons/*.json são consumidos no logon de TODOS os notebooks (sync-bookmarks.ps1
+# via raw URL). Um JSON quebrado mergeado no master iria pra todos. Este check barra
+# isso ANTES do merge. SÓ valida sintaxe — NÃO valida conteúdo/contagens (o README é
+# stale by design; um gate de drift reprovaria conteúdo legítimo).
+
+on:
+  push:
+    branches: [master]
+    paths: ['jsons/**']
+  pull_request:
+    paths: ['jsons/**']
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      # NOTA: pin por SHA é hardening pendente (confirmar SHA da v4 e trocar `@v4`).
+      - uses: actions/checkout@v4
+      - name: Validar sintaxe de cada jsons/*.json
+        run: |
+          set -e
+          fail=0
+          for f in jsons/*.json; do
+            if python -m json.tool "$f" > /dev/null 2>&1; then
+              echo "OK  $f"
+            else
+              echo "QUEBRADO  $f"
+              python -m json.tool "$f" || true
+              fail=1
+            fi
+          done
+          exit $fail
